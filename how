@@ -1,0 +1,13 @@
+[33mefc3b2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{0}: checkout: moving from develop to master
+[33mefc3b2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{1}: checkout: moving from gh-pages to develop
+[33m5f276bc[m[33m ([m[1;32mgh-pages[m[33m)[m HEAD@{2}: checkout: moving from develop to gh-pages
+[33mefc3b2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{3}: checkout: moving from master to develop
+[33mefc3b2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{4}: Branch: renamed refs/heads/main to refs/heads/master
+[33mefc3b2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{6}: checkout: moving from gh-pages to main
+[33m5f276bc[m[33m ([m[1;32mgh-pages[m[33m)[m HEAD@{7}: commit: added CV; removed WIP text
+[33m0cf1225[m HEAD@{8}: commit: edited README
+[33me82ef3b[m HEAD@{9}: commit: edited README
+[33mfcd29c9[m HEAD@{10}: commit: added icons for website and cv; created a copy to try to add credits to icons8
+[33m7abfc16[m HEAD@{11}: commit: moved files out of folder; edited html with my links and added icons for github and wordpress
+[33mefc3b2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{12}: checkout: moving from main to gh-pages
+[33mefc3b2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{13}: commit (initial): initial commit
